@@ -12,6 +12,8 @@
   },
   "dependencies": {
     "bun-plugin-tailwind": "^0.0.14",
+    "framer-motion": "^12.4.7",
+    "lucide-react": "^0.475.0",
     "react": "^19",
     "react-dom": "^19",
     "tailwindcss": "^4.0.6"
