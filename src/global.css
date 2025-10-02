@@ -1,0 +1,24 @@
+/* Define local fonts */
+@font-face {
+  font-family: 'JetBrainsMono Nerd Font';
+  src: url('../public/fonts/JetBrainsMonoNerdFont-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Noto Sans JP';
+  src: url('../public/fonts/NotoSansJP-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+.font-nerd {
+  font-family: 'JetBrainsMono Nerd Font', monospace;
+}
+
+.font-japanese {
+  font-family: 'Noto Sans JP', sans-serif;
+}
